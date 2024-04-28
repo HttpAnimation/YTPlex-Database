@@ -57,7 +57,7 @@ This part will go over all seasons.
 
 1) The Bird | [wiki](https://sml.fandom.com/wiki/The_Bird) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/WtjdB61vIyw) 
 
-1) Toad Is Cool | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/MM1HMQoZkXI) 
+1) Toad Is Cool | [wiki](https://sml.fandom.com/wiki/Toad_Is_Cool) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/MM1HMQoZkXI) 
 
 
 # Credits
