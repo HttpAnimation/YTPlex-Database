@@ -53,7 +53,7 @@ This part will go over all seasons.
 
 1) Mario's Hair | [wiki](https://sml.fandom.com/wiki/Mario%27s_Hair) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Bx941fl2dyI) 
 
-1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Dc_7n0WpQQI) 
+1) Black Yoshi's Girlfriend | [wiki](https://sml.fandom.com/wiki/Black_Yoshi%27s_Girlfriend) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Dc_7n0WpQQI) 
 
 1) The Bird | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/WtjdB61vIyw) 
 
