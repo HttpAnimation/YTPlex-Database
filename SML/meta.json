@@ -1,0 +1,16 @@
+{
+    "actors": [{
+        "name": "Logan thirtyacre",
+        "role": "Guitarist",
+        "photo": "https://example.com/actor_avatar"
+    }],
+    "publisher": "Youtube",
+    "collections": ["Collection 1", "Collection 2"],
+    "available_at": "YYYY-MM-DD",
+    "tags": ["Tutorials", "Guitar", "Music Theory"],
+    "show_thumbnail": "https://example.com/show_poster",
+    "season_thumbnails": {
+        "1": "https://example.com/season_1_poster", 
+        "2": "poster.png"
+    }
+}
