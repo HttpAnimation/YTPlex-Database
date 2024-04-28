@@ -43,3 +43,7 @@ This part will go over all seasons.
 5) Download season one | [Download](https://raw.githubusercontent.com/HttpAnimation/YTPlex-Database/master/SML/Season-1.sh)
 
 ## Season two
+1) NAME | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+
+1) NAME | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+
