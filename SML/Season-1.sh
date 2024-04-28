@@ -7,5 +7,8 @@ mv *.webm "S01E02 Shrek's Big Crap.webm"
 yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs
 mv *.webm "S01E04 Shrek's Costume.webm"
 
+yt-dlp https://youtu.be/mbUl1ZpBI4M
+mv *.webm "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
+
 # Final move
 mv *.webm season\ 1/
