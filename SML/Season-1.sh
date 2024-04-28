@@ -7,7 +7,7 @@ yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs --sponsorblock-remove all -o 
 
 yt-dlp https://youtu.be/mbUl1ZpBI4M --sponsorblock-remove all -o "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
 
-yt-dlp https://youtu.be/YI0WT0G3hQg --sponsorblock-remove all -o "S01E02 The Nintendo DSi.webm"
+yt-dlp https://youtu.be/YI0WT0G3hQg --sponsorblock-remove all -o "S01E01 The Nintendo DSi.webm"
 
 # Final move
 if [ ! -d "season 1" ]; then
