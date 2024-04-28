@@ -1,0 +1,15 @@
+{
+    "actors": [{
+        "name": "NAME",
+        "role": "Director",
+        "photo": "PHOTO"
+    }],
+    "publisher": "NAME",
+    "collections": ["NAMEOFCHANNLE"],
+    "available_at": "YYYY-MM-DD",
+    "tags": ["Director"],
+    "show_thumbnail": "POSTER",
+    "season_thumbnails": {
+        "1": "POSTER"
+    }
+}
