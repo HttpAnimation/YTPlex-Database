@@ -21,12 +21,12 @@ To match the shows you need a dir like this
 /Media
 ├── SML
 │   ├── Season 1
-│   │   └── Episode 1.mp4
-│   │   └── Episode 2.mp4
+│   │   └── S01E01.mp4
+│   │   └── S01E02.mp4
 │   │   └── ...
 │   └── Season 2
-│       └── Episode 1.mp4
-│       └── Episode 2.mp4
+│       └── S02E01.mp4
+│       └── S02E02.mp4
 │       └── ...
 └── ...
 ```
