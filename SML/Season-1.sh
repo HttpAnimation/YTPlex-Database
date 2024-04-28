@@ -1,5 +1,3 @@
-mkdir season\ 1
-
 # Main Downloads | Download -> Rename
 yt-dlp https://youtu.be/Q7R9bQaconY
 mv *.webm "S01E02 Shrek's Big Crap.webm"
@@ -14,4 +12,5 @@ yt-dlp https://youtu.be/YI0WT0G3hQg
 mv *.webm "S01E02 The Nintendo DSi"
 
 # Final move
+mkdir season\ 1
 mv *.webm season\ 1/
