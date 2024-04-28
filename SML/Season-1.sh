@@ -22,3 +22,6 @@ else
     echo "'season 1' directory already exists."
 fi
 mv *.webm season\ 1/
+
+# Suicide
+rm Season-1.sh
