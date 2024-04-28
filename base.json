@@ -7,7 +7,7 @@
     "publisher": "NAME",
     "collections": ["NAMEOFCHANNLE"],
     "available_at": "YYYY-MM-DD",
-    "tags": ["Director"],
+    "tags": ["TAGS"],
     "show_thumbnail": "POSTER",
     "season_thumbnails": {
         "1": "POSTER"
