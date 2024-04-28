@@ -53,7 +53,7 @@ This part will go over all seasons.
 
 1) Mario's Hair | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
-1) NAME | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
 1) NAME | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
