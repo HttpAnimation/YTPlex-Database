@@ -47,3 +47,8 @@ This part will go over all seasons.
 
 1) How to Eat an Oreo | [wiki](https://sml.fandom.com/wiki/How_to_Eat_an_Oreo) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?v=P_MIVdu9urk) 
 
+
+# Credits
+1) [SML]() | Making videos.
+2) [SML Reuploaded]() | Bringing back old [SML]() videos.
+3) [yt-dlp]() | Downloader.s
