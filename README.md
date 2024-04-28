@@ -51,4 +51,4 @@ This part will go over all seasons.
 # Credits
 1) [SML]() | Making videos.
 2) [SML Reuploaded]() | Bringing back old [SML]() videos.
-3) [yt-dlp]() | Downloader.s
+3) [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Downloader.s
