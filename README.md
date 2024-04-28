@@ -39,6 +39,6 @@ This part will go over all seasons.
 
 2) How to Save Princess Peach, the Black Yoshi Way? | [wiki](https://sml.fandom.com/wiki/How_to_Save_Princess_Peach,_the_Black_Yoshi_Way%3F) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?app=desktop&v=mbUl1ZpBI4M) 
 
-3) Shrek's Big Crap | [wiki](WIKI-PAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+3) Shrek's Big Crap | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Big_Crap) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
 4) The Nintendo DSi | [wiki](WIKI-PAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
