@@ -45,7 +45,7 @@ This part will go over all seasons.
 ## Season two
 1) Shrek's Nightmare | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Nightmare) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?v=KWrkE1Nzido) 
 
-1) How to Eat an Oreo | [wiki](https://sml.fandom.com/wiki/How_to_Eat_an_Oreo) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?v=P_MIVdu9urk) 
+1) How to Eat an Oreo | [wiki](https://sml.fandom.com/wiki/How_to_Eat_an_Oreo) | [Download](https://raw.githubusercontent.com/HttpAnimation/YTPlex-Database/master/SML/How%20to%20Eat%20an%20Oreo.sh) | [Youtube](https://www.youtube.com/watch?v=P_MIVdu9urk) 
 
 
 # Credits
