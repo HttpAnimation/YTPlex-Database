@@ -45,5 +45,5 @@ This part will go over all seasons.
 ## Season two
 1) Shrek's Nightmare | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
-1) NAME | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+1) How to Eat an Oreo | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
