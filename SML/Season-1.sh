@@ -10,5 +10,8 @@ mv *.webm "S01E04 Shrek's Costume.webm"
 yt-dlp https://youtu.be/mbUl1ZpBI4M
 mv *.webm "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
 
+yt-dlp https://youtu.be/YI0WT0G3hQg
+mv *.webm "S01E02 The Nintendo DSi"
+
 # Final move
 mv *.webm season\ 1/
