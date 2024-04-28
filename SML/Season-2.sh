@@ -4,7 +4,7 @@
 
 yt-dlp https://youtu.be/KWrkE1Nzido --sponsorblock-remove all -o "S02E01 Shrek's Nightmare.webm"
 
-yt-dlp https://www.youtube.com/watch?v=P_MIVdu9urk --sponsorblock-remove all -o "S02E02  How to Eat an Oreo.webm"
+yt-dlp https://www.youtube.com/watch?v=P_MIVdu9urk --sponsorblock-remove all -o "S02E02 How to Eat an Oreo.webm"
 
 # Final move
 if [ ! -d "season 2" ]; then
