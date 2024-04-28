@@ -49,7 +49,7 @@ This part will go over all seasons.
 
 # Season three
 
-1) Ghost Shrimpo | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?v=U-SKYIQxQtI) 
+1) Ghost Shrimpo | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/U-SKYIQxQtI) 
 
 1) Mario's Hair | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
