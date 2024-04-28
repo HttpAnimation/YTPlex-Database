@@ -7,7 +7,7 @@
     "publisher": "Youtube",
     "collections": ["Collection 1", "Collection 2"],
     "available_at": "YYYY-MM-DD",
-    "tags": ["Tutorials", "Guitar", "Music Theory"],
+    "tags": ["Mario", "Director", "Editor"],
     "show_thumbnail": "https://example.com/show_poster",
     "season_thumbnails": {
         "1": "https://example.com/season_1_poster", 
