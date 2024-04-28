@@ -14,5 +14,11 @@ yt-dlp https://youtu.be/YI0WT0G3hQg
 mv *.webm "S01E02 The Nintendo DSi"
 
 # Final move
-mkdir season\ 1
+if [ ! -d "season 1" ]; then
+    # If it doesn't exist, create it
+    mkdir "season 1"
+    echo "Created 'season 1' directory."
+else
+    echo "'season 1' directory already exists."
+fi
 mv *.webm season\ 1/
