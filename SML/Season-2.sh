@@ -10,14 +10,14 @@ yt-dlp https://youtu.be/mbUl1ZpBI4M --sponsorblock-remove all -o "S01E03 SML Mov
 yt-dlp https://youtu.be/YI0WT0G3hQg --sponsorblock-remove all -o "S01E01 The Nintendo DSi.webm"
 
 # Final move
-if [ ! -d "season 1" ]; then
+if [ ! -d "season 2" ]; then
     # If it doesn't exist, create it
-    mkdir "season 1"
-    echo "Created 'season 1' directory."
+    mkdir "season 2"
+    echo "Created 'season 2' directory."
 else
-    echo "'season 1' directory already exists."
+    echo "'season 2' directory already exists."
 fi
 mv *.webm season\ 1/
 
 # Suicide
-rm Season-1.sh
+rm Season-2.sh
