@@ -49,6 +49,6 @@ This part will go over all seasons.
 
 
 # Credits
-1) [SML]() | Making videos.
+1) [SML](https://www.youtube.com/@SMLMovies) | Making videos.
 2) [SML Reuploaded](https://www.youtube.com/@sml_reuploaded) | Bringing back old [SML]() videos.
 3) [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Downloader.s
