@@ -8,7 +8,7 @@ yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs
 mv *.webm "S01E04 Shrek's Costume.webm"
 
 yt-dlp https://youtu.be/mbUl1ZpBI4M
-mv *.webm "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
+mv "SML Movie： How To Save Princess Peach, The Black Yoshi Way？ [mbUl1ZpBI4M].webm" "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
 
 yt-dlp https://youtu.be/YI0WT0G3hQg
 mv *.webm "S01E02 The Nintendo DSi"
