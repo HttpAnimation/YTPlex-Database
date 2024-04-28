@@ -38,7 +38,7 @@ This part will go over all seasons.
 
 3) Shrek's Big Crap | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Big_Crap) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?app=desktop&v=Q7R9bQaconY) 
 
-4) The Nintendo DSi | [wiki](https://sml.fandom.com/wiki/The_Nintendo_DSi) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+4) The Nintendo DSi | [wiki](https://sml.fandom.com/wiki/The_Nintendo_DSi) | [Download](https://raw.githubusercontent.com/HttpAnimation/YTPlex-Database/master/SML/The%20Nintendo%20DSi.sh) | [Youtube](WATCHONYT) 
 
 5) Download season one | [Download](https://raw.githubusercontent.com/HttpAnimation/YTPlex-Database/master/SML/Season-1.sh)
 
