@@ -2,20 +2,20 @@
     "actors": [{
             "name": "Logan thirtyacre",
             "role": "Director",
-            "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/Untitled.jpg?raw=true"
+            "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/Untitled.jpg"
         },
         {
             "name": "Lance Thirtyacre",
             "role": "Actor",
-            "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/laadawdawd.jpg?raw=true"
+            "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/laadawdawd.jpg"
         }
     ],
     "publisher": "Logan thirtyacre",
     "collections": ["SML"],
     "available_at": "2012-03-08",
     "tags": ["Voice actor", "Director", "Editor"],
-    "show_thumbnail": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg?raw=true",
+    "show_thumbnail": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg",
     "season_thumbnails": {
-        "1": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg?raw=true"
+        "1": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg"
     }
 }
