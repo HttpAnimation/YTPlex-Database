@@ -1,1 +1,1 @@
-youtube-dl https://www.youtube.com/watch?v=PDvKy6v52Fs
+yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs
