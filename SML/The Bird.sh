@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yt-dlp https://youtu.be/WtjdB61vIyw --sponsorblock-remove all -o "S00E00 NAME"
+yt-dlp https://youtu.be/WtjdB61vIyw --sponsorblock-remove all -o "S03E06 The Bird"
 
 # Suicide
-rm "NAME"
+rm "The Bird.sh"
