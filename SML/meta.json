@@ -8,9 +8,8 @@
     "collections": ["Collection 1", "Collection 2"],
     "available_at": "YYYY-MM-DD",
     "tags": ["Mario", "Director", "Editor"],
-    "show_thumbnail": "https://example.com/show_poster",
+    "show_thumbnail": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg?raw=true",
     "season_thumbnails": {
-        "1": "https://example.com/season_1_poster", 
-        "2": "poster.png"
+        "1": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/poster.jpg?raw=true"
     }
 }
