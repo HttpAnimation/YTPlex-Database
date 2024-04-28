@@ -53,7 +53,7 @@ This part will go over all seasons.
 
 1) Mario's Hair | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Bx941fl2dyI) 
 
-1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Dc_7n0WpQQI) 
 
 1) The Bird | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
