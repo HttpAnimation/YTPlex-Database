@@ -2,6 +2,13 @@
 
 A agent for downloaded youtube videos
 
+# Surrported
+1) SML
+2) LTT
+3) LGR
+4) MattKC
+5) High Boi
+
 ## Installation
 
 1) [Download the newest version]() and place it in the plug ins folder on [plex](https://www.plex.tv/).
