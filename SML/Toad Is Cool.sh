@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yt-dlp https://youtu.be/MM1HMQoZkXI --sponsorblock-remove all -o "S00E00 NAME"
+yt-dlp https://youtu.be/MM1HMQoZkXI --sponsorblock-remove all -o "S03E07 Toad Is Cool"
 
 # Suicide
-rm "NAME"
+rm "Toad Is Cool"
