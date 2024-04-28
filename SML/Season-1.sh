@@ -1,17 +1,13 @@
 #!/bin/bash
 
 # Main Downloads | Download -> Rename
-yt-dlp https://youtu.be/Q7R9bQaconY
-mv *.webm "S01E02 Shrek's Big Crap.webm"
+yt-dlp https://youtu.be/Q7R9bQaconY --sponsorblock-remove all -o "S01E02 Shrek's Big Crap.webm"
 
-yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs
-mv "SML Movie： Shrek's Costume [PDvKy6v52Fs].webm" "S01E04 Shrek's Costume.webm"
+yt-dlp https://www.youtube.com/watch?v=PDvKy6v52Fs --sponsorblock-remove all -o "S01E04 Shrek's Costume.webm"
 
-yt-dlp https://youtu.be/mbUl1ZpBI4M
-mv "SML Movie： How To Save Princess Peach, The Black Yoshi Way？ [mbUl1ZpBI4M].webm" "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
+yt-dlp https://youtu.be/mbUl1ZpBI4M --sponsorblock-remove all -o "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
 
-yt-dlp https://youtu.be/YI0WT0G3hQg
-mv "SML Movie： The Nintendo DSi [REUPLOADED] [YI0WT0G3hQg].webm" "S01E02 The Nintendo DSi"
+yt-dlp https://youtu.be/YI0WT0G3hQg --sponsorblock-remove all -o "S01E02 The Nintendo DSi.webm"
 
 # Final move
 if [ ! -d "season 1" ]; then
