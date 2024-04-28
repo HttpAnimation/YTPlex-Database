@@ -1,9 +1,15 @@
 {
     "actors": [{
-        "name": "Logan thirtyacre",
-        "role": "Director",
-        "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/Untitled.jpg?raw=true"
-    }],
+            "name": "Logan thirtyacre",
+            "role": "Director",
+            "photo": "https://github.com/HttpAnimation/YTPlex-Database/blob/master/SML/Untitled.jpg?raw=true"
+        },
+        {
+            "name": "New Actor Name",
+            "role": "Lance",
+            "photo": "https://example.com/new_actor_photo.jpg"
+        }
+    ],
     "publisher": "Logan thirtyacre",
     "collections": ["SML"],
     "available_at": "2012-03-08",
