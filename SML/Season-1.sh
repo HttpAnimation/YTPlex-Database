@@ -11,7 +11,7 @@ yt-dlp https://youtu.be/mbUl1ZpBI4M
 mv "SML Movie： How To Save Princess Peach, The Black Yoshi Way？ [mbUl1ZpBI4M].webm" "S01E03 SML Movie: How to Save Princess Peach, the Black Yoshi Way?.webm"
 
 yt-dlp https://youtu.be/YI0WT0G3hQg
-mv *.webm "S01E02 The Nintendo DSi"
+mv "SML Movie： The Nintendo DSi [REUPLOADED] [YI0WT0G3hQg].webm" "S01E02 The Nintendo DSi"
 
 # Final move
 if [ ! -d "season 1" ]; then
