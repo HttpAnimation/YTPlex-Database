@@ -51,7 +51,7 @@ This part will go over all seasons.
 
 1) Ghost Shrimpo | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/U-SKYIQxQtI) 
 
-1) Mario's Hair | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+1) Mario's Hair | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Bx941fl2dyI) 
 
 1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
