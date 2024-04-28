@@ -1,11 +1,11 @@
 {
     "actors": [{
-        "name": "NAME",
+        "name": "High Boi",
         "role": "Director",
         "photo": "PHOTO"
     }],
-    "publisher": "NAME",
-    "collections": ["NAMEOFCHANNLE"],
+    "publisher": "High Boi",
+    "collections": ["High Boi"],
     "available_at": "YYYY-MM-DD",
     "tags": ["Director"],
     "show_thumbnail": "POSTER",
