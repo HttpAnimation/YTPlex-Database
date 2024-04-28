@@ -43,4 +43,4 @@ This part will go over all seasons.
 
 4) The Nintendo DSi | [wiki](https://sml.fandom.com/wiki/The_Nintendo_DSi) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
-5) ALL | [Download]()
+5) Download season one | [Download]()
