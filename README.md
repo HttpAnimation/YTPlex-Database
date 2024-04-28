@@ -35,7 +35,7 @@ To match the shows you need a dir like this
 This part will go over all seasons.
 
 ## Season one
-1) Shrek's Costume | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Costume) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://www.youtube.com/watch?v=PDvKy6v52Fs) 
+1) Shrek's Costume | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Costume) | [Download](https://github.com/HttpAnimation/YTPlex-Database/raw/master/SML/Shrek's%20Costume.sh) | [Youtube](https://www.youtube.com/watch?v=PDvKy6v52Fs) 
 2) How to Save Princess Peach, the Black Yoshi Way? | [wiki](WIKI-PAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 3) Shrek's Big Crap | [wiki](WIKI-PAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 4) The Nintendo DSi | [wiki](WIKI-PAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
