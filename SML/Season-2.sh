@@ -2,6 +2,8 @@
 
 # Main Downloads | Download -> Rename
 
+yt-dlp https://youtu.be/KWrkE1Nzido --sponsorblock-remove all -o "S02E01 Shrek's Nightmare.webm"
+
 # Final move
 if [ ! -d "season 2" ]; then
     # If it doesn't exist, create it
