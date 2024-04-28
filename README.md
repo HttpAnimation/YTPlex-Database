@@ -38,6 +38,13 @@ To match the shows you need a dir like this
 ## Seasons
 This part will go over all seasons.
 
+
+### Seasons cashed
+1 | V
+2 | V
+3 | V
+4+ | X
+
 ## Season one
 1) Shrek's Costume | [wiki](https://sml.fandom.com/wiki/Shrek%27s_Costume) | [Download](https://github.com/HttpAnimation/YTPlex-Database/raw/master/SML/Shrek's%20Costume.sh) | [Youtube](https://www.youtube.com/watch?v=PDvKy6v52Fs) 
 
