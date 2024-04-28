@@ -55,7 +55,7 @@ This part will go over all seasons.
 
 1) Black Yoshi's Girlfriend | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/Dc_7n0WpQQI) 
 
-1) The Bird | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
+1) The Bird | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](https://youtu.be/WtjdB61vIyw) 
 
 1) Toad Is Cool | [wiki](WIKIPAGE) | [Download](SCRIPTTODOWNLOAD) | [Youtube](WATCHONYT) 
 
